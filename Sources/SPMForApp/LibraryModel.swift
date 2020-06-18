@@ -7,7 +7,7 @@
 
 import Foundation
 
-struct LibraryModel {
+public struct LibraryModel {
     let version = 2.0
     let data = "this is data from Library"
 }
