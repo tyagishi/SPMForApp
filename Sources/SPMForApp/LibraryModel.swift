@@ -8,8 +8,8 @@
 import Foundation
 
 public struct LibraryModel {
-    let version = 2.0
-    let data = "this is data from Library"
+    public let version = 2.0
+    public let data = "this is data from Library"
     
     public init() {
         // do nothing
