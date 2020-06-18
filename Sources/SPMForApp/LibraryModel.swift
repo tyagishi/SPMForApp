@@ -9,7 +9,7 @@ import Foundation
 
 public struct LibraryModel {
     public let version = 2.0
-    public let data = "this is data from Library"
+    public let data = "this is data from Library revised again"
     
     public init() {
         // do nothing
